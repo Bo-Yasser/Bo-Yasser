@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Yaser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-yaser-2a30b2338" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Yaser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Bo_Yaser1" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Yaser-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 

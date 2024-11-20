@@ -27,10 +27,10 @@
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)&nbsp;
 
-
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
+<a href="https://almdrasa.com/certificate-verification/733755236E-73374591E5-1391291B1/" target="_blank"><img src="https://img.shields.io/badge/Git&GitHub-%23121011.svg?logo=github&logoColor=white"/></a>

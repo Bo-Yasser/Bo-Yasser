@@ -33,6 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 
-### ⚡ &nbsp;Certificates and Achievements
+### ⚡ &nbsp;Certificates & Achievements
 
 <a href="https://almdrasa.com/certificate-verification/733755236E-73374591E5-1391291B1/" target="_blank"><img src="https://img.shields.io/badge/Mastering Certificates Git&Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
